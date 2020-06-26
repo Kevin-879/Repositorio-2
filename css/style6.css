@@ -12,18 +12,18 @@ body{
     height: 600px;
 }
 .caja2{
-    padding: 20px;
+    padding: 30px;
     margin: 20px;
     background-color: yellow;
     width: 100%;
-    height: 215px;
+    height: 220px;
 }
 .centro{
     position: relative;
     left: 600px;
 	top: 30px;
 }
-.hijo2{
+.hijo1{
     position: relative;
     top: -30px;
 }
