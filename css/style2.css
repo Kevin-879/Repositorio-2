@@ -1,0 +1,55 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+.caja1{
+    width: 100%;
+    height: 800px;
+}
+.hijo1{
+    margin: 20px;
+    float: left;
+    top: 40px;
+    position: relative;
+    
+}
+.foto{
+    float: left;
+    position: relative;
+    left: 50px;
+    width:70%;
+}
+.hijo2{
+    padding: 20px;
+    margin: 20px;
+    top: 40px;
+    position: relative;
+    float: left;
+    background-color: yellow;
+    width: 50%;
+    height: 200px;
+}
+.hijo3{
+    padding: 20px;
+    margin: 20px;
+    float: left;
+    background-color: #08FFEA;
+    width: 50%;
+    height: 200px;
+}
+.hijo4{
+    float: left;
+    position: relative;
+    left: 50px;
+    margin:20px;
+    width: 80%;
+    height: 250px;
+}
+.texto{
+    color: white;
+}
+.titulo{
+    color: white;
+}

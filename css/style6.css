@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+.caja1{
+    padding: 20px;
+    margin: 20px;
+    background-color: #08FFEA;
+    width: 100%;
+    height: 600px;
+}
+.caja2{
+    margin: 20px;
+    background-color: yellow;
+    width: 100%;
+    height: 100px;
+}
+.centro{
+    position: relative;
+    left: 600px;
+	top: 30px;
+}
