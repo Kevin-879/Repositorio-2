@@ -6,6 +6,8 @@ body{
     background-color: black;
 }
 .inicio{
+    position: relative;
+    top: 300px;
     width: 50px;
     animation-delay: 7s;
     animation-duration: 4s;
